@@ -1,0 +1,7 @@
+C:\github\multitask-process\multitask-process\bin\Debug\multitask-process.exe.config
+C:\github\multitask-process\multitask-process\bin\Debug\multitask-process.exe
+C:\github\multitask-process\multitask-process\bin\Debug\multitask-process.pdb
+C:\github\multitask-process\multitask-process\obj\Debug\multitask-process.csprojAssemblyReference.cache
+C:\github\multitask-process\multitask-process\obj\Debug\multitask-process.csproj.CoreCompileInputs.cache
+C:\github\multitask-process\multitask-process\obj\Debug\multitask-process.exe
+C:\github\multitask-process\multitask-process\obj\Debug\multitask-process.pdb
